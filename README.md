@@ -1,3 +1,4 @@
+#MapViewer for Game Diamond Hunter
 ## Menu
 - [What is Game Diamond Hunter?](#1)
 - [JavaFX App: MapViewer for Game Diamond Hunter](#2)
